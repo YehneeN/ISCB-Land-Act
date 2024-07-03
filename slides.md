@@ -79,7 +79,8 @@ h1 {
 
 ---
 transition: slide-left
-layout: two-cols
+layout: image-right
+image: images/auth.jpg
 class: text-justify
 ---
 
@@ -93,22 +94,17 @@ s'assurer qu'un utilisateur est bien celui qu'il prétend être
 afin de garantir que les données auquelles il accèdes ne sont pas consultées par n'importe qui.
 </div>
 <br>
-<br>
 
 <v v-click="2">Dans un système automatisé, ce processus se repose
 sur des critères objectifs qu'un ordinateur peut mesurer.
 La méthode la plus répandue étant le couple : 
+<br>
 <span v-mark.circle.blue="3">- Identifiant </span>
 <br>
 <span v-mark.circle.blue="3">- Mot de passe.</span>
 
 </v click>
-::right::
-<br>
-<br>
-<br>
-<br>
-<div v-click="1"><img src="images/auth.png"></div>
+
 
 <style>
 h1 {
