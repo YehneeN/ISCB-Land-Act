@@ -1,6 +1,6 @@
 ---
 theme: seriph
-background: ../images/XB-TUP-2013_06-Bois_Colombes-Jardin_Public-17-1.jpg
+background: ../images/landact.jpg
 
 title: Initiation et Sensibilisation à la Cyber-Sécurité
 
