@@ -1,5 +1,5 @@
 ---
-transition: slide-left
+transition: slide-up
 layout: image-right
 image: images/auth.jpg
 class: text-justify
@@ -37,7 +37,7 @@ h1 {
 -->
 
 ---
-transition: slide-left
+transition: slide-up
 
 layout: two-cols-header
 
@@ -109,5 +109,36 @@ h1 {
 }
 .mdp{
   margin-left: 50px;
+}
+</style>
+
+---
+transition: slide-up
+layout: image-right
+image: ../images/MFA.jpg
+class: text-justify
+---
+
+# Multi-Factor Authentication (MFA)
+
+
+Il s'agit d'un processus d'authentification qui nécessite la combinaison de plusieurs informations provenant des catégories suivantes : 
+
+
+<div><ul>
+<li>Un facteur de connaissance (ce que l'on sait) comme un mot de passe, une expression, un code PIN...</li>
+<li>Un facteur de possession (ce que l'on possède) comme un smartphone, un certificat, un badge...</li>
+<li>Un facteur d'héritage (ou d'inhérence ; ce que l'on est) comme une empreinte digitale, de la reconnaissance faciale ou vocale...</li>
+</ul></div>
+<br><br>
+<div>
+La méthode la plus communément employée est l'usage d'un OTP (One Time Password).
+On peut le recevoir par mail, par sms ou sur une application.
+Il est à usage unique et n'est actif que pendant un laps de temps défini et assez court. 
+</div>
+
+<style>
+div{
+  font-size: 60%;
 }
 </style>
