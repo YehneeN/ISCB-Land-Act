@@ -83,3 +83,14 @@ src: ./subpages/authPage.md
 
 ---
 
+---
+src: ./subpages/hiPage.md
+---
+
+---
+src: ./subpages/nimPage.md
+---
+
+---
+src: ./subpages/byodPage.md
+---
