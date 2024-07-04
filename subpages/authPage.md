@@ -3,6 +3,7 @@ transition: slide-left
 layout: image-right
 image: images/auth.jpg
 class: text-justify
+
 ---
 
 # L'Authentification
@@ -37,13 +38,15 @@ h1 {
 
 ---
 transition: slide-left
-background: images/mdp.jpg
+
 layout: two-cols-header
+
 drawings:
   persist: true
 ---
 
 # Choisir avec soin ses mots de passe
+
 <br>
 📋 Comment est-ce que l'on compose un bon mot de passe ?
 ::left::
@@ -82,6 +85,7 @@ On suit simplement quelque règles classiques :
 </div>
 
 <style>
+
 h1 {
   color: #2B90B6;
 }
