@@ -51,7 +51,7 @@ transition: slide-left
 Les points importants à tout utilisateurs pour réduire les surface d'attaques sont :
 <br>
 <br>
-- 🔐 **L'authentification** - Comprendre ce que c'est et comment la renforcer
+- 🔐 **<link to="3">L'authentification</link>** - Comprendre ce que c'est et comment la renforcer
 - 💻 **L'hygiène informatique** - Maintenir son système et ses applications à jour
 - 🌐 **Maitriser sa navigation** - et rester vigilant sur les menaces du WEB
 - 📧 **Connaitre les risques liés à la messagerie** - et ne pas tomber dans les pièges d'aujourd'hui
