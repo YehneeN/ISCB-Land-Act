@@ -113,7 +113,7 @@ h1 {
 </style>
 
 ---
-transition: slide-up
+transition: slide-right
 layout: image-right
 image: ../images/MFA.jpg
 class: text-justify
