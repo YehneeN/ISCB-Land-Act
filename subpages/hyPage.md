@@ -73,3 +73,31 @@ img {
     justify-content: center;
 }
 </style>
+
+
+---
+transition: slide-up
+
+layout: image-right
+image: images/software-update.jpg
+
+class: test-justify
+
+drawings:
+  persist: true
+---
+
+# Installations et mises à jour de logiciels
+
+<span v-mark.blue="0">Appareils numérique ou logiciels<br>
+= **nouvelles failles tous les jours**</span>.
+
+
+Si aucun système ne gère pour vous les mises à jours de manières automatique, et qu'une notification vous signale des mises à jours du système d'exploitation ; <span v-mark.blue="0">**installez-la**</span>.
+
+Ces patch ciblent essentiellement les failles de sécurité de votre appareil. 
+
+
+<style>
+
+</style>
