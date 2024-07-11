@@ -159,7 +159,7 @@ L’antivirus est la première base de la protection, peu importe le système d�
 * NON, un antivirus n’a pas besoin d’être payant pour être performant. 
 
 ---
-transition: slide-up
+transition: slide-right
 class: text-justify
 ---
 
@@ -199,3 +199,4 @@ Stockage temporaire,
 Si pas de chiffrement = pas de sécurité
 ```
 ````
+
