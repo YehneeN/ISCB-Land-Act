@@ -93,7 +93,7 @@ drawings:
 = **nouvelles failles tous les jours**</span>.
 
 <br>
-Si aucun système ne gère pour vous les mises à jours de manières automatique, et qu'une notification vous signale des mises à jours du système d'exploitation ; <span v-mark.blue="0">**installez-la**</span>.
+Si aucun système ne gère pour vous les mises à jours de manières automatique, et qu'une notification vous signale des mises à jours du système d'exploitation ; <span v-mark.blue="0"><b>installez-la</b></span>.
 
 <br>
 <br>
