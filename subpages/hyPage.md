@@ -106,27 +106,96 @@ Ces patch ciblent essentiellement les failles de sécurité de votre appareil.
 </style>
 
 --- 
-image: images/landact.jpg
 transition: slide-up
-class: text-center
+class: text-justify
+layout: two-cols-header
 ---
 
 # Les cracks "safe", ça n'existe pas
-
 <span v-mark.blue="0">Si c'est gratuit... C'est vous le produit.</span>
+
+::left::
+>« J’ai téléchargé la saison 3, tu la veux ? »
+
+>« Un ami m’a installé la dernière version de PS CC. »
+
+>« J’ai l’intégralité du MCU en Full HD. »
+
+>« Oui mais ça va, c’est que des films… »
+
+>« Tu sais où je peux trouver tel logiciel, gratuitement ? »
+
+>« J’ai le crack du dernier Call Of Duty… »
+
+>« T’as pas un site pour télécharger des films ? »
+
+>« J'utilise un VPN, c'est bon. »
+
+>« J'ai jamais eu de problèmes en téléchargeant des séries. »
+
+::right::
+![](images/malwares.png)
 
 <br>
 
-« J’ai téléchargé la saison 3, tu la veux ? »
+<br>
 
-« Un ami m’a installé la dernière version de PS CC »
+---
+transition: slide-up
+class: text-justify
+layout: image-right
+image: images/av.jpg
+---
 
-« J’ai l’intégralité du MCU en Full HD »
+# La nécessité d'avoir un bon anti-virus
 
-« Oui mais ça va, c’est que des films… »
+L’antivirus est la première base de la protection, peu importe le système d’exploitation. 
 
-« Tu sais où je peux trouver tel logiciel, gratuitement ? »
+* OUI, il est nécessaire d’en avoir un pour détecter, isoler et supprimer les menaces.
+* OUI, les programmes malveillants existent sur tous les systèmes d’exploitation (Windows, MacOS, iOS, Android, Linux).
 
-« J’ai le crack du dernier Call Of Duty… »
 
-« T’as pas un site pour télécharger des films ? »
+* NON, l’antivirus ne fait pas tout et vous devez rester vigilants. 
+* NON, un antivirus n’a pas besoin d’être payant pour être performant. 
+
+---
+transition: slide-up
+class: text-justify
+---
+
+# Où stocker ses données ?
+
+Pour sécuriser ses données, et celle de son entreprise ; il est important de choisir le bon support stockage.
+
+````md magic-move
+```js
+1. Sur un serveur de fichier local.
+
+Stockage fiable, durable et sécurisé
+Permet de partager les données avec le reste de l’équipe
+Les données seront sauvegardées avec l’entièreté du serveur
+Adapté pour le stockage de données sensibles
+```
+```js
+2. Sur le Cloud
+
+Permet un travail synchronisé et collaboratif plus avancé
+Moins couteux qu’une infrastructure
+Ouvre plus facilement l'entreprise à la collaboration externe
+
+/ ! \ Derrière le « Cloud » se cache un ensemble de serveurs de fichiers redondants ; 
+MAIS, on ne sait pas vraiment où sont stockées les données.
+Aussi, les hébergeurs ne garantissent aucune sauvegarde de vos données. / ! \
+```
+```ts
+3. Sur l'ordinateur directement ?
+
+Vous posez-vous vraiment cette question ? 😉
+
+Ne nécessite aucune authentification, 
+Sujet au piratage,
+Non adapté au partage, 
+Stockage temporaire, 
+Si pas de chiffrement = pas de sécurité
+```
+````
