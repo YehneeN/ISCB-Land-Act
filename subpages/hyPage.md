@@ -81,7 +81,7 @@ transition: slide-up
 layout: image-right
 image: images/software-update.jpg
 
-class: test-justify
+class: text-justify
 
 drawings:
   persist: true
@@ -92,8 +92,11 @@ drawings:
 <span v-mark.blue="0">Appareils numérique ou logiciels<br>
 = **nouvelles failles tous les jours**</span>.
 
-
+<br>
 Si aucun système ne gère pour vous les mises à jours de manières automatique, et qu'une notification vous signale des mises à jours du système d'exploitation ; <span v-mark.blue="0">**installez-la**</span>.
+
+<br>
+<br>
 
 Ces patch ciblent essentiellement les failles de sécurité de votre appareil. 
 
@@ -101,3 +104,29 @@ Ces patch ciblent essentiellement les failles de sécurité de votre appareil.
 <style>
 
 </style>
+
+--- 
+image: images/landact.jpg
+transition: slide-up
+class: text-center
+---
+
+# Les cracks "safe", ça n'existe pas
+
+<span v-mark.blue="0">Si c'est gratuit... C'est vous le produit.</span>
+
+<br>
+
+« J’ai téléchargé la saison 3, tu la veux ? »
+
+« Un ami m’a installé la dernière version de PS CC »
+
+« J’ai l’intégralité du MCU en Full HD »
+
+« Oui mais ça va, c’est que des films… »
+
+« Tu sais où je peux trouver tel logiciel, gratuitement ? »
+
+« J’ai le crack du dernier Call Of Duty… »
+
+« T’as pas un site pour télécharger des films ? »

@@ -1,6 +1,6 @@
 ---
 theme: seriph
-background: ../images/landact.jpg
+background: ./images/landact.jpg
 
 title: Initiation et Sensibilisation à la Cyber-Sécurité
 
@@ -119,4 +119,7 @@ h1 {
 
 ---
 src: ./subpages/hyPage.md
+---
+---
+src: ./subpages/nimPage.md
 ---
