@@ -167,6 +167,8 @@ class: text-justify
 
 Pour sécuriser ses données, et celle de son entreprise ; il est important de choisir le bon support stockage.
 
+<br>
+
 ````md magic-move
 ```js
 1. Sur un serveur de fichier local.
@@ -199,4 +201,3 @@ Stockage temporaire,
 Si pas de chiffrement = pas de sécurité
 ```
 ````
-

@@ -60,4 +60,9 @@ src: ./subpages/plan.md
 ---
 src: ./subpages/nimPage.md
 ---
-
+---
+src: ./subpages/plan.md
+---
+---
+src: ./subpages/byodPage.md
+---
